@@ -1,0 +1,26 @@
+# Raw datasets — never commit
+data/mitbih/
+data/mobifall/
+*.dat
+*.atr
+*.hea
+*.xws
+*.csv
+
+# Model weights
+models/*.pth
+models/*.pt
+models/*.gz
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.env
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
