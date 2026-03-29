@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # WECARE — Wearable Emergency Cardiac and Fall Response System
 
 > *Transforming wearables from passive monitors into active emergency responders.*
@@ -287,3 +288,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 ---
 
 *Built as part of the MS in Artificial Intelligence (Biomedical Concentration) program at the University of North Texas.*
+=======
+# wecare-cardiac-fall-detection
+>>>>>>> b44d402a5955ed0e224ccae7fd1bfa56db338943
